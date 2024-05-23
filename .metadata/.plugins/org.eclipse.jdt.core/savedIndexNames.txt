@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Exercicios\meu xadrez\.metadata\.plugins\org.eclipse.jdt.core
+3744090223.index
+3617217350.index
+1865797976.index
