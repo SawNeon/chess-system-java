@@ -1,4 +1,0 @@
-INDEX VERSION 1.134+C:\Matheus\chess\chess-system-java\.metadata\.plugins\org.eclipse.jdt.core
-3744090223.index
-4101826301.index
-1865797976.index
